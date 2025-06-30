@@ -24,4 +24,4 @@ node -v # Should print "v22.17.0".
 nvm current # Should print "v22.17.0".
 
 # Verify npm version:
-npm -v # Should print "10.9.2".
+npm -v # Shuld print "10.9.2".

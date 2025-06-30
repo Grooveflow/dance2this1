@@ -13,3 +13,11 @@ export default function App() {
     </Routes>
   )
 }
+export default function App() {
+    return (
+        <div>
+              <h1>Welcome to Dance2This!</h1>
+                    <p>This is your React app up and running. 🎉</p>
+                        </div>
+                          );
+                          }

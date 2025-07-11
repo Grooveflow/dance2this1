@@ -8,3 +8,4 @@ const response = await client.responses.create({
 });
 
 console.log(response.output_text);
+Authorization: Bearer OPENAI_API_KEY

@@ -6,3 +6,7 @@ export default function App() {
     </div>
   );
 }
+.npmignor
+package.json
+README
+LICENSE / LICENCE

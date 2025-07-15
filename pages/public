@@ -1,0 +1,11 @@
+icon-192.png
+
+icon-512.png
+
+manifest.json
+
+service-worker.js
+
+And update index.html to include <link rel="manifest" href="/manifest.json">
+
+Register the service worker (likely in main.jsx)

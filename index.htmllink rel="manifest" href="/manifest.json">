@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dance2This</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+<<<<<<< HEAD:index.html
+</html>link rel="manifest" href="/manifest.json">
+=======
+</html>
+icon-192.png
+
+icon-512.png
+
+manifest.json
+
+service-worker.js
+>>>>>>> f3f11848556e8929d7e2c0883ed5dca71cd6735a:index.htmllink rel="manifest" href="/manifest.json">

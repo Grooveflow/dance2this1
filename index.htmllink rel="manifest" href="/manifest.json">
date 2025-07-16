@@ -10,3 +10,10 @@
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
+icon-192.png
+
+icon-512.png
+
+manifest.json
+
+service-worker.js
